@@ -1,0 +1,26 @@
+@media only screen and (max-width: 780px) {
+    .navbar1{
+        display: block!important;
+    }
+
+    .navbar2{
+        display: none!important;
+    }
+  }
+
+  img{
+    height: 350px;
+  }
+
+  .card{
+    display: block;
+    margin: auto;
+  }
+
+  .row .card {
+    border: 2px solid rgb(31, 76, 255);
+  }
+
+  .bg-body-tertiary {
+    background-color: rgb(177 192 255) !important;
+}
