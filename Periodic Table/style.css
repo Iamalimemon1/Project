@@ -1,0 +1,22 @@
+
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+body{
+    /* font-size: small; */
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+td{
+    height: 15px;
+    width: 50px;
+    border-color: rgb(from color r g b)
+}
